@@ -1,4 +1,4 @@
-# Olá, mundo! 👋
+# Olá, ehstortcgdrv aqui! 👋
 
 ## Meu conhecimento:
 
@@ -11,3 +11,9 @@
 
 * Desenvolvimento de drivers de kernel.
 * Engenharia reversa.
+
+## Contato:
+
+<p>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"> ehstortcgdrv.sys
+</p>
