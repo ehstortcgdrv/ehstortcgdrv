@@ -6,4 +6,7 @@
 
 ## Contato:
 
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"> **ehstortcgdrv.sys**
+<p align="left">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" align="absmiddle">
+  <span><b>ehstortcgdrv.sys</b></span>
+</p>
