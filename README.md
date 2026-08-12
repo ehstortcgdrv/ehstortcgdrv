@@ -9,7 +9,9 @@
 
 ## Contato:
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" align="center">
-  <span style="position: relative; top: 4px; margin-left: 8px;">ehstortcgdrv.sys</span>
-</p>
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></td>
+    <td><b>ehstortcgdrv.sys</b></td>
+  </tr>
+</table>
