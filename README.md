@@ -1,5 +1,3 @@
-# Olá, ehstortcgdrv aqui! 👋
-
 ## Meu conhecimento:
 
 <table>
