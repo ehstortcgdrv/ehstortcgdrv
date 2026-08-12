@@ -11,5 +11,5 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" align="center">
-  <span style="font-weight: bold; margin-left: 8px;">ehstortcgdrv.sys</span>
+  <span style="position: relative; top: 1px; margin-left: 8px;">ehstortcgdrv.sys</span>
 </p>
